@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "service-courier",
+    "mongoUri": "mongodb+srv://userdb:Dc`vjue2020@cluster0-xzo2h.gcp.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
